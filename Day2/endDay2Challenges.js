@@ -150,4 +150,3 @@ if (myNumber % 2 == 0) {
     console.log(num3 * num4);
 }
 
-
